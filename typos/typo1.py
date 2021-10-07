@@ -1,7 +1,5 @@
-x = 0
 n = 5
-for i in range(0,n):
-    x+=1
-    for j in range(0,i+1):
+for x, i in enumerate(range(n), start=1):
+    for _ in range(i+1):
         print(x,end="")
     print("\n")
