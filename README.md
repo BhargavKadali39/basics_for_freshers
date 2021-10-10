@@ -3,3 +3,5 @@
   * One with typo kind of errors.<br>
   * Second is based on the following error,
   logic error,excess code,wrong syntax.
+
+#hacktoberfest PR's are accepted only for those who add meaningful changes.
